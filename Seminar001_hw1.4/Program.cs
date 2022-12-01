@@ -8,7 +8,7 @@
 int index = 1;
 bool no = true;
 
-Console.WriteLine("Введите число не равное 1:");
+Console.WriteLine("Please enter N:");
 int N = Convert.ToInt32(Console.ReadLine());
 
 while (index <= N)
@@ -23,5 +23,5 @@ while (index <= N)
 
         if (no)
         {
-            Console.WriteLine("Введите число не равное 1");
+            Console.WriteLine("Please, try again!");
 }
