@@ -5,12 +5,12 @@
 // -3 -> нет
 // 7 -> нет
 
-Console.WriteLine("Enter num : ");
+Console.WriteLine("Please enter num : ");
 string enterNum = Console.ReadLine();
 
 int num = Convert.ToInt32(enterNum);
 
-if(num%2 != 0)
+if(num % 2 != 0)
     {
         Console.WriteLine("NO");
     }

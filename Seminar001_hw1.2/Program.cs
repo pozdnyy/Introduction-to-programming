@@ -5,13 +5,13 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-Console.WriteLine("Enter number1 : ");
+Console.WriteLine("Please enter number1 : ");
 string enterNum1 = Console.ReadLine();
 
-Console.WriteLine("Enter number2 : ");
+Console.WriteLine("Please enter number2 : ");
 string enterNum2 = Console.ReadLine();
 
-Console.WriteLine("Enter number3 : ");
+Console.WriteLine("Please enter number3 : ");
 string enterNum3 = Console.ReadLine();
 
 int num1 = Convert.ToInt32(enterNum1);
