@@ -16,9 +16,9 @@ int num2 = Convert.ToInt32(enterNum2);
 
 if(num1 < num2)
 {   
-    Console.WriteLine("max");
+    Console.WriteLine("Num1 - min, Num2 - max");
 }
 else
 {
-    Console.WriteLine("min");
+    Console.WriteLine("Num1 - max, num2 - min");
 }
