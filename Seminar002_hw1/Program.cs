@@ -9,7 +9,7 @@
 Console.WriteLine("Введите трехзначное число");
     while(true)
     {
-        string index = Console.ReadLine();
-            Console.WriteLine("{1}",index, index[1]);
+        string array = Console.ReadLine();
+            Console.WriteLine("{1}",array, array[1]);
             break;
     }
