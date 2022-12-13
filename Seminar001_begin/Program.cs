@@ -5,10 +5,10 @@
 //a = 9, b = -3 -> да 
 //a = -3 b = 9 -> нет
 
-Console.WriteLine("Enter number1 : ");
+Console.WriteLine("Please, enter number1 : ");
 string enterNum1 = Console.ReadLine();
 
-Console.WriteLine("Enter number2 : ");
+Console.WriteLine("Please enter number2 : ");
 string enterNum2 = Console.ReadLine();
 
 int num1 = Convert.ToInt32(enterNum1);
