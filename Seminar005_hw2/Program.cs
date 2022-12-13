@@ -13,7 +13,6 @@ int[] array = new int[leng];
 int sum = 0;
 
 FillArray(array);
-Console.WriteLine(" ");
 PrintArray(array);
 
 void FillArray(int[] array) // заполнить случайными числами

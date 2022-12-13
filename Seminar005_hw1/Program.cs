@@ -11,7 +11,6 @@ int[] array = new int[leng];
 int indx = 0;
 
 FillArray(array);
-Console.WriteLine("массив: ");
 PrintArray(array);
 
 void FillArray(int[] array) // заполняем массив числами
