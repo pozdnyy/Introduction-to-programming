@@ -36,7 +36,7 @@ int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 
 if (a > q && b > g)
-    Console.WriteLine("такого числа нет");
+    Console.WriteLine("такого числа в массиве нет");
 else
 {
     object c = collection.GetValue(a, b);
